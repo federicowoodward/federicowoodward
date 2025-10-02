@@ -1,48 +1,24 @@
-Hi 👋 My name is Fede woodward
-==============================
+Hi, I'm Federico Woodward 👋
 
-Fullstack developer
--------------------
+I’m a Fullstack Software Engineer based in Argentina.
+I have more than three years of professional experience building scalable web applications and solutions for both frontend and backend. I work daily with TypeScript, React, Next.js, Angular, Node.js, NestJS, and SQL databases, and I also enjoy exploring Python and data-driven projects.
 
-I have been coding for over 3 years now and have completed my career training at Coderhouse as a full-stack developer. In addition to other important skills, I have worked for over a year with Python, Looker Studio, Node.js, and other technologies. Now, I am learning Next.js and Nest.js, along with TypeScript. I started a software development career in 2023 to gain a better understanding of my code and my computer.
+I focus on writing clean, maintainable code, building reliable APIs, and delivering user-friendly interfaces with strong performance and design. I thrive in Agile environments, collaborating with product, design, and QA teams to create impactful solutions.
 
-* ✉️  You can contact me at [woodfederico@gmail.com](mailto:woodfederico@gmail.com)
-* 🚀  I'm currently working on [Searching! Here is my LinkedIn](http://https://www.linkedin.com/feed/)
-* 🧠  I'm learning Next.js and Nest.js
-* 🤝  I'm open to collaborating on JS and TS Projects!
-* ⚡  I love training when I'm not writing code.
+🛠️ Tech Stack
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angular logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/handlebarsdotjs/000000" height="40" alt="handlebars logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" /> <img width="12" /> <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo" /> </div>
+💼 Experience
 
-### Skills
+Fullstack Developer @ Encode S.A. (2024 – Present)
+I focus on building institutional websites and high-impact landing pages. I work closely with product, design, and QA teams to deliver fast and reliable solutions. My role includes implementing complex animations with GSAP, optimizing SEO and performance, and developing backend APIs for payments, form handling, and secure data storage.
 
-### Skills
+Freelance Fullstack Developer (2023 – 2024)
+I developed custom solutions for clients, from requirements gathering to final deployment, including web applications, process automation, and hosting solutions.
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-  </a>
-</p>
+Fullstack Developer @ KUNAN S.A. (2023)
+I specialized in data visualization, creating real-time interactive dashboards and building a real-time data connector integrating multiple databases (Vertica, Oracle, MySQL) with Amazon S3.
 
+🌍 Portfolio
 
-### Socials
-
- <a href="www.linkedin.com/in/fede-woodward-980252212" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-
-
+For more details about my work and projects, please visit my portfolio:
+👉 fedewoodward.com
